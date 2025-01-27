@@ -22,7 +22,7 @@ I'm a passionate Machine Learning Engineer with a strong interest in solving rea
 ### How to Reach Me
 - 📫 Email: [mustafa.nasser.002@gmail.com](mailto:mustafa.nasser.002@gmail.com)
 - 🧑‍💻 GitHub: [MustafaNasser005](https://github.com/MustafaNasser005)
-- 🧑‍💻 Linkedin: [Mustafa Nasser](www.linkedin.com/in/mustafa-nasser-b22598321)
+- 🧑‍💻 Linkedin: [Mustafa Nasser]([www.linkedin.com/in/mustafa-nasser-b22598321](https://www.linkedin.com/in/mustafa-nasser-b22598321/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ### Fun Fact
 ⚡ I believe AI is not just about technology—it's about empowering humanity to achieve the impossible.
