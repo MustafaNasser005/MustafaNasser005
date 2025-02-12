@@ -10,8 +10,8 @@ I'm a passionate Machine Learning Engineer with a strong interest in solving rea
 - 🖼️ Computer Vision: Proficient in image processing, object detection, segmentation, and video analysis tasks.
 
 ### Tools & Technologies
-- Languages: Python, C++, SQL
-- Platforms: Jupyter, Google Colab
+- Languages: Python, C++, SQL, Web Scrapping
+- Platforms: Jupyter, Google Colab, Vscode
 - Databases: MySQL
 
 ### Goals
