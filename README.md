@@ -65,15 +65,7 @@
   </a>
 </p>
 
----
 
-### Other Skills:
-- 📐 Mathematics  
-- 📊 Statistics & Probability  
-- 🌐 Web Scraping (BeautifulSoup, Scrapy, Selenium)
-
-
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MustafaNasser005&show_icons=true&locale=en&layout=compact" alt="MustafaNasser005" /></p>
 
